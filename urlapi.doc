@@ -1,0 +1,6 @@
+1: institute/login--url-           http://localhost/api/Institute/login
+2: user/package--url-              http://localhost/api/Login/package
+3: user/package--url-              http://localhost/api/Login/package
+4: user/aadhar no save--url-        http://localhost/api/Login
+5: user/aadhar no login--url-       http://localhost/api/Login/login
+6: user/aadhar balence add --url-   http://localhost/api/Login/balance_add
